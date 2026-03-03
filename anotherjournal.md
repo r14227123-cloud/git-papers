@@ -1,6 +1,6 @@
 
 #this is an incredible paper
-written by ME !
+written by ME, and John !
 
 ##introduction
 this is a very important problem that i've been working on
